@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://myraekadleeuwen.com//sitemap.xml
+Sitemap: https://myraekadleeuwen.com/sitemap.xml
