@@ -22,6 +22,7 @@ back_to_top: true # set to false to disable the back to top button
 profile:
   align: right
   image: prof_pic.jpg
+  image: nutmeg.jpg
   image_circular: false
   subtitle: "myraeka [at] unc [dot] edu"
 
