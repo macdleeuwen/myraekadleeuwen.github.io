@@ -15,7 +15,7 @@ This paper argues that adaptive preferences (as theorized by feminist philosophe
 
 #### The Moral Limits of Speculation
 
-This paper is about privacy and Taylor Swift :) specifically, about strange and unsettling phenomenon of speculating about her (and others') private life.
+This paper is about privacy and Taylor Swift :) specifically, about the strange and unsettling phenomenon of speculating about the private life of others.
 
 #### Public Explanations and the Shortcomings of Mechanistic Interpretability
 
