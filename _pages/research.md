@@ -20,3 +20,7 @@ This paper is about privacy and Taylor Swift :) specifically, about the strange 
 #### Public Explanations and the Shortcomings of Mechanistic Interpretability
 
 This paper is a critique of the growing trend in AI research to mechanistically explain the behavior of LLMs.
+
+#### We Should All Know Less About Each Other
+
+This paper is about why you shouldn't overshare, and why this observation is important to theorizing about the significance of privacy.
