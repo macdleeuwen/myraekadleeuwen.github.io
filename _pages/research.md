@@ -24,3 +24,7 @@ This paper is a critique of the growing trend in AI research to mechanistically 
 #### We Should All Know Less About Each Other
 
 This paper is about why you shouldn't overshare, and why this observation is important to theorizing about the significance of privacy.
+
+#### Privacy is Not Control
+
+This paper argues that the foremost theories of the right to privacy, which say that privacy is essentially a right to control, fail.
