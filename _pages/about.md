@@ -18,3 +18,5 @@ At UNC, I am a Graduate Fellow in the Parr Center for Ethics, the Research Assoc
 Outside of philosophy, I enjoy running slow half marathons, doing the NYT crossword, and country line dancing (which is, I promise, more fun than it sounds).
 
 My name is pronounced Muh-rae-kuh Duh-lay-win.  
+
+You can access my CV [here]({{ '/assets/pdf/myraekadleeuwencv.pdf' | relative_url }}).
