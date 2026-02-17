@@ -26,15 +26,18 @@ $max-content-width: {{ site.max_width }};
 body {
   font-size: 15px;   // default is usually 16px
 }
-
-a {
-  color: #1b4332;
+/* Change navbar link color */
+.navbar .nav-link {
+  color: #317D8C !important;
 }
 
-a:visited {
-  color: #1b4332;
+/* Change active tab color */
+.navbar .nav-link.active {
+  color: #317D8C !important;
+  font-weight: 600;
 }
 
-a:hover {
-  color: #1b4332;
+/* Optional: hover effect */
+.navbar .nav-link:hover {
+  color: #317D8C !important;
 }
