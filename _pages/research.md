@@ -4,6 +4,7 @@ permalink: /research/
 title: research
 description: 
 nav_order: 6
+show_title: false
 ---
 
 My research is primarily in normative ethics and the ethics of technology. 

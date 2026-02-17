@@ -5,6 +5,7 @@ title: teaching
 description: 
 nav: true
 nav_order: 6
+show_title: false
 ---
 
 I have been instructor of record at several classes at UNC, and have TAed for a number of classes at both UNC and Northeastern. Below is the course description for the classes for which I have served as instructor of record.
