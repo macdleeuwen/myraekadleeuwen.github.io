@@ -20,3 +20,7 @@ War, by its nature, seems to involve the transgression of some of our most funda
 #### *AI and the Future of Humanity*
 
 This course is an introduction to the ethical, political, and epistemic issues that have arisen or are expected to arise from the advent of advanced artificial systems. This class will have a particular focus on technology which is already making very real impacts on people’s lives. We will cover bias and fairness in algorithmic systems, including lending, hiring, and criminal justice; social media, privacy, and online information ecosystems; generative AI, such as large language models and image or video generators; the use of technically advanced systems in warfare; and the impact of technology on work. Though this class will use methods of philosophical inquiry to analyze these new and emerging phenomena, it presumes no background in philosophy.
+
+#### *Moral and Philosophical Issues of Gender in Society*
+
+This class will primarily focus on feminist philosophy, with a secondary focus on philosophy of gender and sexuality. We will discuss issues such as oppression, misogyny, objectification, abortion, adaptive preferences, pornography, and sex work. We will also discuss topics in the philosophy of gender, including the basis and the nature of distinctions between sex and gender. This course will include readings which represent a number of traditions and perspectives within this field.
