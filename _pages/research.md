@@ -6,7 +6,7 @@ description:
 nav_order: 6
 ---
 
-My research is primarily in normative ethics and the ethics of technology. Click [this link](myraekadleeuwen.com/myraekadleeuwencv.pdf) to download my CV!
+My research is primarily in normative ethics and the ethics of technology. Click [this link](myraekadleeuwencv.pdf) to download my CV!
 
 ### Dissertation
 
