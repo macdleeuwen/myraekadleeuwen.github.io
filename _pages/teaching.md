@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 6
 show_title: false
+
+profile:
+  align: right
+  image: thegirls.jpg
+  image_circular: false # crops the image to make it circular
 ---
 
 I have been instructor of record for several classes at UNC, and have TAed for a number of classes at both UNC and Northeastern. Below, you can find links to abridged versions of the syllabi for courses at UNC for which I have been instructor of record.
