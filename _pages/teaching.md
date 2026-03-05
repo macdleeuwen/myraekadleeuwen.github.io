@@ -13,7 +13,7 @@ show_title: false
   <img src="{{ '/assets/img/thegirls.png' | relative_url }}" 
        alt="Teaching photo" 
        style="width: 100%; height: auto;">
-  <p style="font-size: 0.9rem;"><em>Nutmeg & Betty</em></p>
+  <p style="font-size: 0.9rem;"><em>my two exceptional cats</em></p>
 </div>
 
 I have been instructor of record for several classes at UNC, and have TAed for a number of classes at both UNC and Northeastern. Below, you can find links to abridged versions of the syllabi for courses at UNC for which I have been instructor of record.
