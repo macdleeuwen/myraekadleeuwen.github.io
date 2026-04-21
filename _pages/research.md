@@ -25,5 +25,5 @@ My research is primarily in normative ethics and the ethics of technology.
 - ##### A paper about animal oppression
   - This paper argues that adaptive preferences (as theorized by feminist philosophers) can be used to demonstrate why the preferences of domestic animals are sometimes less instructive than they appear.
 
-- ##### Mechanistic Interpretability for AI Safety
+- ##### What Do We Gain From Mechanistic Interpretability?
   - This paper is a critique of the growing trend in AI research to mechanistically explain the behavior of LLMs.
