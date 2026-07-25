@@ -11,9 +11,9 @@ profile:
 
 ---
 
-I am a PhD candidate in philosophy at the University of North Carolina at Chapel Hill, where I am advised by [Tom Dougherty](https://sites.google.com/site/tomdoughertyphilosophy/), [Kathleen A. Creel](https://kathleenacreel.com/), [Alex Worsnip](https://www.alexworsnip.com/), and [Luc Bovens](https://philosophy.unc.edu/people/luc-bovens/). My research is on normative ethics and the ethics of technology. Before coming to UNC, I earned a BS in computer science and philosophy at Northeastern University. 
+I am a PhD candidate in philosophy at the University of North Carolina at Chapel Hill, where I am advised by [Tom Dougherty](https://sites.google.com/site/tomdoughertyphilosophy/), [Kathleen A. Creel](https://kathleenacreel.com/), [Alex Worsnip](https://www.alexworsnip.com/), and [Luc Bovens](https://philosophy.unc.edu/people/luc-bovens/). 
 
-At UNC, I am a Graduate Fellow in the Parr Center for Ethics, the Research Associate for the AI Project, and a PPE affiliated graduate student. In the summer of 2024, I participated in Northeastern's Summer Training Program in AI and Data Ethics. I am also, starting in July 2026, a member of the APA Graduate Student Council.
+My research is primarily in the philosophy of AI and ethics. Before coming to UNC, I earned a BS in computer science and philosophy at Northeastern University.
 
 Outside of philosophy, I enjoy running slow half marathons, doing the NYT crossword, and country line dancing (which is, I promise, more fun than it sounds).
 
